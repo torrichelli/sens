@@ -1,0 +1,1 @@
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?> <a href="/" class="logo-link"> <img alt="Sensata Group" src="/local/templates/sensata/images/logo_v2.png" class="logo"> </a>

@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Как купить", 
+		"/how-to-buy/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Ипотека", 
+		"/mortgage/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Акции", 
+		"/promo/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Trade-in", 
+		"/trade-in/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
